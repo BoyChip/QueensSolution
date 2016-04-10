@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MyPic">
+        <file>queen.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
